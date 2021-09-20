@@ -5,6 +5,7 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <name>Integration</name>
+	<description>Put in evidence your integrations!</description>
     <url>https://github.com/sixro/integration</url>
     
     <properties>
