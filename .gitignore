@@ -1,0 +1,10 @@
+target
+pom.xml.*
+release.properties
+
+.idea
+*.iml
+
+.project
+.classpath
+.settings
